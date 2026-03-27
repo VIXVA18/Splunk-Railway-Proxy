@@ -1,5 +1,5 @@
 {
-  "name": "railway-app",
+  "name": "splunk-railway-proxy",
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
